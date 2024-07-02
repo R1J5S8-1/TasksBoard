@@ -1,9 +1,10 @@
+/* Variables */
 :root {
     --primary-color:black;
     --secondary-color:blue;
     --teriory-color:gray;
 }
-
+/* deafault */
 *{
     margin: 0;
     padding: 0;
@@ -44,7 +45,7 @@ ul li a {
     text-decoration: none;
     color: var(--primary-color);
 }
-
+/* Styles header */
 header {
     max-height: 4rem;
     padding: 10px 10px 10px 10px;
@@ -60,7 +61,7 @@ header img{
     height: 2rem;
     width: 2rem;
 }
-
+/* Styles main body */
 .intro img {
     height: 6rem;
 } 

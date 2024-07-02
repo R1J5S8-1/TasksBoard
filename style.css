@@ -36,12 +36,13 @@
     float: right;
 }
 
-ul {
+ul li {
     list-style-type: none;
 }
 
-a {
+ul li a {
     text-decoration: none;
+    color: var(--primary-color);
 }
 
 header {
@@ -92,7 +93,7 @@ figure img {
     transition: all .3s ease-in-out;
     &:hover {
         cursor: pointer;
-        transform: scale(1.1);
+        transform: scale(1.2);
     }
 }
 

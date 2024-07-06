@@ -70,7 +70,7 @@ header img{
     max-width: 40rem;
     height: 20rem;
     padding: 1rem;
-    /* overflow: auto; */
+    overflow: auto;
     background: rgb(8,142,217);
     background: linear-gradient(0deg, rgba(8,142,217,1) 0%, rgba(101,248,249,1) 60%);
     z-index: 8;
